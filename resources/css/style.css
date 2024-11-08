@@ -1,0 +1,60 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+header {
+    display: block;
+}
+
+body {
+    display: block;
+}
+
+footer {
+    display: block;
+    margin-top: 1rem;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 3.125rem;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 1.313rem;
+    color: grey;
+}
+
+a {
+    color: aquamarine;
+}
+
+a:visited {
+    color: lightpink;
+}
+
+p {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+#copyright {
+    text-align: right !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 1.313rem;
+    color: grey;
+}
